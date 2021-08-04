@@ -1,0 +1,12 @@
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.deps.json
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.runtimeconfig.json
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.runtimeconfig.dev.json
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.dll
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.pdb
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.csprojAssemblyReference.cache
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.AssemblyInfo.cs
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.dll
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.pdb
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.genruntimeconfig.cache
